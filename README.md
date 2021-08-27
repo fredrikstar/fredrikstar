@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on python and kivy
 - 🌱 I’m currently learning to build apps
 - 👯 I’m open source programmer
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about pythob
+
+- 💬 Ask me about python
 - 📫 How to reach me: fredrik052@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
